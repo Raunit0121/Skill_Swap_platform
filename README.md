@@ -8,6 +8,11 @@
 A full-stack web application that connects people to **exchange skills** and knowledge. Whether you're a coder looking to learn guitar 🎸 or a designer wanting to master cooking 🍳 — this platform makes skill-swapping easy and fun!
 
 ---
+## 🌐 Live Links
+
+- 🧠 **Frontend (Vercel)**: [Skill Swap UI](https://skill-swap-platform-mocha.vercel.app/)
+- 🚀 **Backend (Render)**: [Skill Swap API](https://skill-swap-platform-4ng2.onrender.com/api/health)
+
 
 ## 🚀 Features
 
